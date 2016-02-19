@@ -1,8 +1,8 @@
 {
-    "name": "ivopetkov/bearframework-google-analytics",
+    "name": "ivopetkov/google-analytics-bearframework-addon",
     "description": "Google Analytics addon for Bear Framework",
-    "keywords": ["google analytics", "tracking", "addon", "bear framework"],
-    "homepage": "https://github.com/ivopetkov/bearframework-google-analytics",
+    "keywords": ["google analytics", "tracking", "addon", "Bear Framework"],
+    "homepage": "https://github.com/ivopetkov/google-analytics-bearframework-addon",
     "license": "MIT",
     "authors": [
         {
