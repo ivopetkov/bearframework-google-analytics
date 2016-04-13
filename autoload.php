@@ -7,8 +7,4 @@
  * Free to use under the MIT license.
  */
 
-BearFramework\Addons::register('ivopetkov/google-analytics-bearframework-addon', __DIR__, [
-    'require' => [
-        'ivopetkov/html5-dom-document-php'
-    ]
-]);
+BearFramework\Addons::register('ivopetkov/google-analytics-bearframework-addon', __DIR__);
